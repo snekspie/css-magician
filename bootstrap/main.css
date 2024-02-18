@@ -1,0 +1,28 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .atas{
+    background-color: bisque;
+
+  }
+  .h7-hazelnut{
+    font-size: 13px;
+  }
+  .vanilla{
+    font-size: 13px;
+  }
+  .custom-img {
+    max-width: 100%;
+    height: auto;
+  }
+  .btn-custom-hover:hover {
+    background-color: transparent !important;
+    border-color: rgb(229, 151, 34) !important;
+  }
