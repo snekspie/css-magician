@@ -1,0 +1,21 @@
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.svg-background {
+  position: absolute;
+  top: 0;
+  height:100%;
+  width:60%;
+  z-index:-1; /* To place it below other content */
+}
+
+.component{
+ padding-top :220px; 
+}
+
+.images{
+ padding-left :250px; 
+}
